@@ -1,0 +1,11 @@
+.common-btn {
+	min-width: 140px;
+	width: 140px;
+	min-height: 20px;
+	height: 20px;
+	border: 1px solid black;
+	display: block;
+	margin: 5px;
+	text-align: center;
+	cursor: pointer;
+}
